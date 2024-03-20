@@ -1,0 +1,86 @@
+  /*
+This is for future project for CSS 
+
+*/
+
+.body {
+   background-color: #FEFAE0;
+   
+}
+
+ul{
+   list-style: none;
+}
+ul li{
+   display: inline-block;
+   background-color: #BC6C25;
+   border-radius: 15px;
+   margin-right: 15px;
+   margin-top: 10px;
+   padding: 10px;
+   transition: .3s;
+   cursor: pointer;
+}
+ul li a{
+   color: #ffff;
+   font-size: 24px;
+   text-decoration: none;
+}
+ul li:hover{
+   background-color: #283618;
+}
+
+div.Welcome {
+   margin-left: 735px;
+   margin-top: 50px;
+   font-style: italic;
+   font-size:larger;
+   font-stretch:condensed;
+   font-family:'Times New Roman', Times, serif
+   
+}
+
+p.placement{
+ margin-left: 1000px; 
+ margin-right: 200px;
+ margin-top: 75px;
+ border-radius: 15px;
+ padding: 10px;
+ text-align: center;
+ background-color: #DDA15E;
+ box-shadow: 10px 5px 5px #BC6C25;
+
+}
+
+img.placement{
+   margin-top: 50px;
+   margin-left: 300px;
+   margin-right: 100px;
+   float: left;
+   border-radius: 15px;
+   box-shadow: 10px 5px 5px #BC6C25;
+}
+
+
+
+.Spring-term {
+   margin-left: 1000px; 
+   margin-right: 200px;
+   margin-top: 10px;
+   border-radius: 15px;
+   padding: 10px;
+   text-align: justify;
+   background-color: #DDA15E;
+   box-shadow: 10px 5px 5px #BC6C25;
+}
+
+.Contact {
+   margin-left: 1000px; 
+   margin-right: 200px;
+   margin-top: 10px;
+   border-radius: 15px;
+   padding: 10px;
+   background-color: #DDA15E;
+   box-shadow: 10px 5px 5px #BC6C25;
+}
+
